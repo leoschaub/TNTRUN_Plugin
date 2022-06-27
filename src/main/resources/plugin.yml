@@ -1,0 +1,5 @@
+name: TNTRUN_Plugin
+version: '${project.version}'
+main: me.leos.tntrun_plugin.TNTRUN_Plugin
+api-version: 1.19
+description: TNTRUN V1
